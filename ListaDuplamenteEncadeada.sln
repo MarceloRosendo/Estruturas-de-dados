@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDuplamenteEncadeada", "ListaDuplamenteEncadeada\ListaDuplamenteEncadeada.csproj", "{4D1E31EB-1D9F-4FFC-88E1-E4FFF3F42DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaCircular", "ListaCircular\ListaCircular.csproj", "{7F74E19A-C31A-4A60-81E3-1A3F966255D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1E31EB-1D9F-4FFC-88E1-E4FFF3F42DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1E31EB-1D9F-4FFC-88E1-E4FFF3F42DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1E31EB-1D9F-4FFC-88E1-E4FFF3F42DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1E31EB-1D9F-4FFC-88E1-E4FFF3F42DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F74E19A-C31A-4A60-81E3-1A3F966255D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F74E19A-C31A-4A60-81E3-1A3F966255D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F74E19A-C31A-4A60-81E3-1A3F966255D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F74E19A-C31A-4A60-81E3-1A3F966255D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
